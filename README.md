@@ -18,3 +18,10 @@ The text input is taken from a Windows Form and sent to the trained model, the a
 **Image input** is a picture of a microscopic section of the tumor uploaded by the user directly into an extension of the Windows Form. The image file is sent to the alocated methods and trained model. The answer comes within seconds as a pop-up as well. 
 
 For best results, use both inputs for the same tumor. 
+
+### Showcase of the Image Classification Model
+
+https://github.com/user-attachments/assets/9327b091-5eba-4de9-81f4-6b0fe7bb3430
+
+
+
