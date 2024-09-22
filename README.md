@@ -21,6 +21,8 @@ For best results, use both inputs for the same tumor.
 
 ### Showcase of the Image Classification Model
 
+The first picture is of a Benign Breast Tumor, the second is of a Malignant Breast Tumor. Both pictures** did not** partake in the training of the model.
+
 https://github.com/user-attachments/assets/9327b091-5eba-4de9-81f4-6b0fe7bb3430
 
 
